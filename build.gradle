@@ -36,7 +36,7 @@ dependencies {
     /**
      * Vintage platform engine.
      */
-    testCompile group: 'org.junit.platform', name: 'junit-platform-engine', version: '1.5.2'
+    testCompile group: 'org.junit.platform', name: 'junit-platform-engine', version: '1.7.2'
 
     /**
      * JUnit jupiter with mockito.

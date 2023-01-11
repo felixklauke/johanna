@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
 
-    compileOnly('org.junit.jupiter:junit-jupiter-api:5.8.2')
+    compileOnly('org.junit.jupiter:junit-jupiter-api:5.9.2')
     compileOnly('org.junit.jupiter:junit-jupiter-engine:5.8.2')
     compile group: 'com.google.inject', name: 'guice', version: '5.1.0'
     compile files('/Users/fklauke/Minecraft/Server/Emilia/spigot-latest.jar')
